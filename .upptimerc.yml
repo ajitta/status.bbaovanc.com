@@ -12,8 +12,10 @@ sites:
     url: https://git.bbaovanc.com
   - name: Images
     url: https://img.bbaovanc.com
-  - name: Rick
-    url: https://rick.bbaovanc.com
+  - name: Drone CI
+    url: https://drone.bbaovanc.com/bbaovanc/pynamegen
+  - name: Media
+    url: https://media.bbaovanc.com/test
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
