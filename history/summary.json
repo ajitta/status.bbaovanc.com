@@ -4,36 +4,39 @@
     "url": "https://bbaovanc.com",
     "icon": "https://favicons.githubusercontent.com/bbaovanc.com",
     "slug": "main-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 579,
     "timeWeek": 344,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 2
+    }
   },
   {
     "name": "Searx",
     "url": "https://searx.bbaovanc.com",
     "icon": "https://favicons.githubusercontent.com/searx.bbaovanc.com",
     "slug": "searx",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
     "time": 268,
     "timeDay": 509,
     "timeWeek": 309,
     "timeMonth": 268,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2021-02-03": 1,
       "2021-02-01": 49
     }
   },
@@ -42,28 +45,30 @@
     "url": "https://git.bbaovanc.com",
     "icon": "https://favicons.githubusercontent.com/git.bbaovanc.com",
     "slug": "gitea",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 302,
     "timeDay": 621,
     "timeWeek": 371,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 1
+    }
   },
   {
     "name": "Images",
     "url": "https://img.bbaovanc.com",
     "icon": "https://favicons.githubusercontent.com/img.bbaovanc.com",
     "slug": "images",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 274,
@@ -71,16 +76,18 @@
     "timeWeek": 327,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 1
+    }
   },
   {
     "name": "Drone CI",
     "url": "https://drone.bbaovanc.com/bbaovanc/pynamegen",
     "icon": "https://favicons.githubusercontent.com/drone.bbaovanc.com",
     "slug": "drone-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +96,18 @@
     "timeWeek": 254,
     "timeMonth": 227,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 0
+    }
   },
   {
     "name": "Media",
     "url": "https://media.bbaovanc.com/test",
     "icon": "https://favicons.githubusercontent.com/media.bbaovanc.com",
     "slug": "media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +116,8 @@
     "timeWeek": 287,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-03": 0
+    }
   }
 ]
